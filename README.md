@@ -12,6 +12,7 @@
 - 🌍 Shipped **15+ production apps** for clients in Pakistan, the US, the UK and Israel
 - 💬 Ask me about React, React Native, Node.js, Nest.js, FastAPI and AI agents
 - 🗣️ Talk to my AI agent: [qualzo.app](https://qualzo.app/chat/cmt01ewgm00wgjqtgc8agi1cq)
+- 🎬 Watch the AI Driving Test System demo: [YouTube](https://www.youtube.com/watch?v=yJV395NlWko)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-faizan-60518a290) · [muhammadfaizanali18@gmail.com](mailto:muhammadfaizanali18@gmail.com)
 
 ### Agentic AI
