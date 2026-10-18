@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<a href="https://portfolio-zxs1.vercel.app"><img src="assets/banner.svg" alt="Muhammad Faizan, Agentic AI & Full-Stack Engineer" width="100%"></a>
+<a href="https://faizi-dev.vercel.app"><img src="assets/banner.svg" alt="Muhammad Faizan, Agentic AI & Full-Stack Engineer" width="100%"></a>
 
 <p align="center">
-  <a href="https://portfolio-zxs1.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=BB2ACF&center=true&vCenter=true&width=720&lines=I+build+full-stack+products+and+the+AI+agents+inside+them;LangGraph+%E2%80%A2+RAG+%E2%80%A2+MCP+%E2%80%A2+Voice+AI+agents;React+%E2%80%A2+React+Native+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;15%2B+production+apps+across+PK%2C+US%2C+UK+%26+Israel" alt="Typing intro"></a>
+  <a href="https://faizi-dev.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=BB2ACF&center=true&vCenter=true&width=720&lines=I+build+full-stack+products+and+the+AI+agents+inside+them;LangGraph+%E2%80%A2+RAG+%E2%80%A2+MCP+%E2%80%A2+Voice+AI+agents;React+%E2%80%A2+React+Native+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;15%2B+production+apps+across+PK%2C+US%2C+UK+%26+Israel" alt="Typing intro"></a>
 </p>
 
 - 🔭 I'm currently working as **Software Engineer**
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-zxs1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-151515?style=for-the-badge&logo=vercel&logoColor=BB2ACF" alt="Portfolio"></a>
+  <a href="https://faizi-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-151515?style=for-the-badge&logo=vercel&logoColor=BB2ACF" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/muhammad-faizan-60518a290"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=BB2ACF" alt="LinkedIn"></a>
   <a href="mailto:muhammadfaizanali18@gmail.com"><img src="https://img.shields.io/badge/Email-151515?style=for-the-badge&logo=gmail&logoColor=BB2ACF" alt="Email"></a>
   <a href="https://qualzo.app/chat/cmt01ewgm00wgjqtgc8agi1cq"><img src="https://img.shields.io/badge/Talk_to_my_AI_agent-151515?style=for-the-badge&logo=openai&logoColor=BB2ACF" alt="AI agent"></a>
