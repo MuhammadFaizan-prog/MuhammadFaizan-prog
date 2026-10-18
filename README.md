@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=MuhammadFaizan-prog&hide_border=true&border_radius=6&background=151515&ring=BB2ACF&fire=BB2ACF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=DAF7DC&sideNums=DAF7DC&dates=8B949E&stroke=2A2A2A" alt="GitHub streak">
+  <img width="49%" src="https://faizi-dev.vercel.app/api/streak" alt="GitHub streak">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFaizan-prog&layout=compact&langs_count=8&hide_border=true&border_radius=6&title_color=ffffff&text_color=daf7dc&bg_color=151515&card_width=495" alt="Top languages">
 </p>
 
