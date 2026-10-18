@@ -60,4 +60,5 @@
   <a href="https://www.linkedin.com/in/muhammad-faizan-60518a290"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=BB2ACF" alt="LinkedIn"></a>
   <a href="mailto:muhammadfaizanali18@gmail.com"><img src="https://img.shields.io/badge/Email-151515?style=for-the-badge&logo=gmail&logoColor=BB2ACF" alt="Email"></a>
   <a href="https://qualzo.app/chat/cmt01ewgm00wgjqtgc8agi1cq"><img src="https://img.shields.io/badge/Talk_to_my_AI_agent-151515?style=for-the-badge&logo=openai&logoColor=BB2ACF" alt="AI agent"></a>
+  <a href="https://www.youtube.com/watch?v=yJV395NlWko"><img src="https://img.shields.io/badge/AI_Driving_Test_System-151515?style=for-the-badge&logo=youtube&logoColor=BB2ACF" alt="AI Driving Test System video"></a>
 </p>
