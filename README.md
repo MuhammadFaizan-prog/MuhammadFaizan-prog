@@ -6,8 +6,6 @@
   <a href="https://portfolio-zxs1.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=BB2ACF&center=true&vCenter=true&width=720&lines=I+build+full-stack+products+and+the+AI+agents+inside+them;LangGraph+%E2%80%A2+RAG+%E2%80%A2+MCP+%E2%80%A2+Voice+AI+agents;React+%E2%80%A2+React+Native+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;15%2B+production+apps+across+PK%2C+US%2C+UK+%26+Israel" alt="Typing intro"></a>
 </p>
 
-<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=MuhammadFaizan-prog&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=6&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub stats">
-
 - 🔭 I'm currently working as **Software Engineer @Munexa Design**
 - 🤖 Building **agentic AI** that takes action: LangGraph, RAG, MCP, tool calling and voice
 - 🚓 Built the **AI Driving Test System for Punjab Police**, showcased at Punjab Transport Expo 2025
@@ -15,8 +13,6 @@
 - 💬 Ask me about React, React Native, Node.js, Nest.js, FastAPI and AI agents
 - 🗣️ Talk to my AI agent: [qualzo.app](https://qualzo.app/chat/cmt01ewgm00wgjqtgc8agi1cq)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-faizan-60518a290) · [muhammadfaizanali18@gmail.com](mailto:muhammadfaizanali18@gmail.com)
-
-<br clear="right"/>
 
 ### Agentic AI
 
