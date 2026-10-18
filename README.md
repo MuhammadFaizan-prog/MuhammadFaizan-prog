@@ -18,8 +18,6 @@
 
 <br clear="right"/>
 
-![](https://komarev.com/ghpvc/?username=MuhammadFaizan-prog&color=blueviolet)
-
 ### Agentic AI
 
 <p align="left">
@@ -55,15 +53,6 @@
   <img src="assets/badges/actions.svg" alt="GitHub Actions" style="vertical-align:top; margin:6px 4px">
   <img src="assets/badges/vercel.svg" alt="Vercel" style="vertical-align:top; margin:6px 4px">
 </p>
-
-### Featured work
-
-| Project | What it does |
-| --- | --- |
-| 🚓 [AI Driving Test System](https://www.youtube.com/watch?v=yJV395NlWko) | Automated driving tests for Punjab Police: admin dashboard, fingerprint auth, printer hardware, real-time sync with DLIMS |
-| 🤖 [Voice & Text AI Agent](https://qualzo.app/chat/cmt01ewgm00wgjqtgc8agi1cq) | Conversational agent that runs custom actions and fills web forms from natural conversation (tool calling, RAG, STT/TTS) |
-| 🎓 Switch | 3-portal education platform (Israel) with role-based access for teachers, admins and municipalities |
-| 📦 Flip Inventory | Real-time inventory management system (UK) |
 
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=MuhammadFaizan-prog&hide_border=true&border_radius=6&background=151515&ring=BB2ACF&fire=BB2ACF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=DAF7DC&sideNums=DAF7DC&dates=8B949E&stroke=2A2A2A" alt="GitHub streak">
