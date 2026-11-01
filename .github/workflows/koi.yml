@@ -24,10 +24,14 @@ jobs:
         with:
           body: white
           output-dir: koi
+      - uses: yalongwastaken/git-koi@v1
+        with:
+          body: gold
+          output-dir: koi2
       - name: Commit the koi if it changed
         shell: bash
         run: |
-          git add koi/koi.gif
+          git add koi/koi.gif koi2/koi.gif
           if git diff --cached --quiet; then
             echo "The koi is unchanged; nothing to commit."
             exit 0

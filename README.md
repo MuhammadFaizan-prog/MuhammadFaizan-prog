@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="koi/koi.gif" width="256" alt="My koi, drawn nightly from my GitHub activity" />
+  <img src="koi2/koi.gif" width="256" alt="A second koi, gold" />
 </p>
 
 - 🔭 I'm currently working as **Software Engineer**
