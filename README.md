@@ -6,6 +6,10 @@
   <a href="https://faizi-dev.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=BB2ACF&center=true&vCenter=true&width=720&lines=I+build+full-stack+products+and+the+AI+agents+inside+them;LangGraph+%E2%80%A2+RAG+%E2%80%A2+MCP+%E2%80%A2+Voice+AI+agents;React+%E2%80%A2+React+Native+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;15%2B+production+apps+across+PK%2C+US%2C+UK+%26+Israel" alt="Typing intro"></a>
 </p>
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, drawn nightly from my GitHub activity" />
+</p>
+
 - 🔭 I'm currently working as **Software Engineer**
 - 🤖 Building **agentic AI** that takes action: LangGraph, RAG, MCP, tool calling and voice
 - 🚓 Built the **AI Driving Test System for Punjab Police**, showcased at Punjab Transport Expo 2025: [YouTube](https://www.youtube.com/watch?v=yJV395NlWko)
