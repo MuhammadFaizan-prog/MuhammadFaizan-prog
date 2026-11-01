@@ -61,7 +61,7 @@
 
 <p align="center">
   <img width="49%" src="https://faizi-dev.vercel.app/api/streak" alt="GitHub streak">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFaizan-prog&layout=compact&langs_count=8&hide_border=true&border_radius=6&title_color=ffffff&text_color=daf7dc&bg_color=151515&card_width=495" alt="Top languages">
+  <img width="49%" src="assets/top-langs.svg" alt="Top languages">
 </p>
 
 <p align="center">

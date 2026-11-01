@@ -13,7 +13,7 @@ on:
 permissions:
   contents: write
 
-concurrency: koi
+concurrency: readme-commit
 
 jobs:
   koi:
@@ -24,10 +24,8 @@ jobs:
         with:
           body: white
           output-dir: koi
-      - uses: yalongwastaken/git-koi@v1
-        with:
-          body: gold
-          output-dir: koi2
+      - name: Render a second, gold koi
+        run: git-koi render "$RUNNER_TEMP/koi-snapshot.json" --output-dir koi2 --body gold
       - name: Commit the koi if it changed
         shell: bash
         run: |
@@ -39,4 +37,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit --quiet --message "koi: draw the day's koi"
-          git push --quiet
+          git pull --rebase --quiet && git push --quiet
